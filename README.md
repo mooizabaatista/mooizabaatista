@@ -2,7 +2,7 @@
 # Olá! Eu sou o Moisés Batista   👋😀
 
 
-### 🌱 Atualmente estou estudando 
+### 🌱 Minha Staff Tecnológica:
 
 - C#
 - ASP.NET Core Web API
