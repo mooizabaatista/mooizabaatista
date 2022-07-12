@@ -4,14 +4,14 @@
 
 ### 🌱 Atualmente estou estudando 
 
-##### C#
-##### ASP.NET Core Web API
-##### ASP.NET Core MVC
-##### Padrão Repository
-##### UnitOfWork
-##### Clean Architecture
-##### Entity FrameWork
-##### Sql Server
+- C#
+- ASP.NET Core Web API
+- ASP.NET Core MVC
+- Padrão Repository
+- UnitOfWork
+- Clean Architecture
+- Entity FrameWork
+- Sql Server
 
 - 👯 Determinado em se tornar um desenvolvedor FullStack
 
