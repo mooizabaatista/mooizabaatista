@@ -8,7 +8,7 @@
 - ASP.NET Core Web API
 - ASP.NET Core MVC
 - Padrão Repository
-- UnitOfWork
+- Padrão UnitOfWork
 - Clean Architecture
 - Entity FrameWork
 - Sql Server
