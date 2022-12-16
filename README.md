@@ -7,6 +7,7 @@
 - C#
 - ASP.NET Core Web API
 - ASP.NET Core MVC
+- Domain Driven Design
 - Padrão Repository
 - Padrão UnitOfWork
 - Clean Architecture
