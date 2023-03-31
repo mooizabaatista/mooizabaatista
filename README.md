@@ -16,6 +16,12 @@
 - Domain Driven Design
 - Entity FrameWork
 - Sql Server
+- Github
+- HTML
+- CSS
+- JavaScript
+- Jquery
+- Bootstrap
 
 ### 👯 Determinado em se tornar um desenvolvedor FullStack
 
