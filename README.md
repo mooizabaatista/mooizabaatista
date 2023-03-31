@@ -10,7 +10,9 @@
 - Domain Driven Design
 - Padrão Repository
 - Padrão UnitOfWork
+- Padrão CQRS
 - Clean Architecture
+- Domain Driven Design
 - Entity FrameWork
 - Sql Server
 
