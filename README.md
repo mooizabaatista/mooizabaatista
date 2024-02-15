@@ -8,6 +8,7 @@
 - ASP.NET Core Web API
 - ASP.NET Core MVC
 - ASP.NET Core Identity
+- Token JWT
 - Domain Driven Design
 - Padrão Repository
 - Clean Architecture
