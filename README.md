@@ -7,6 +7,7 @@
 - C#
 - ASP.NET Core Web API
 - ASP.NET Core MVC
+- Angular 2+
 - ASP.NET Core Identity
 - Token JWT
 - Domain Driven Design
