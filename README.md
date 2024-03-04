@@ -1,29 +1,55 @@
         
 ## Olá! Eu sou o Moisés Batista   👋😀
 
+#
+#
+#### Linguagens e Tecnologias de Back-end:
 
-### 🌱 Minha Staff Tecnológica:
+- **Linguagem e Framework:**
+  - C#
+  - ASP.NET Core Web API
+  - ASP.NET Core MVC
 
-- C#
-- ASP.NET Core Web API
-- ASP.NET Core MVC
-- Angular 2+
-- ASP.NET Core Identity
-- Token JWT
-- Domain Driven Design
-- Padrão Repository
-- Clean Architecture
-- Domain Driven Design
-- Entity FrameWork
-- Sql Server
-- Github
-- HTML
-- CSS
-- JavaScript
-- Jquery
-- Bootstrap
+- **Autenticação e Autorização:**
+  - ASP.NET Core Identity
+  - Token JWT
 
-### 👯 Determinado em se tornar um desenvolvedor FullStack
+- **Arquitetura e Padrões:**
+  - Domain Driven Design
+  - Padrão Repository
+  - Clean Architecture
+  - C.Q.R.S (Command Query Responsibility Segregation)
+
+- **Acesso a Dados:**
+  - Entity Framework
+  - SQL Server
+
+- **Gerenciamento de Dependências e Middleware:**
+  - MediatR
+
+- **Mapeamento de Objetos:**
+  - AutoMapper
+
+- **Validação:**
+  - Fluent Validation
+
+- **Controle de Versão e Colaboração:**
+  - GitHub 
+  - Azure DevOps
+
+## Tecnologias Front-end:
+
+- **Frameworks e Bibliotecas JavaScript:**
+  - Angular 2+
+  - jQuery
+
+- **Markup e Estilização:**
+  - HTML
+  - CSS
+
+- **Framework de Estilos:**
+  - Bootstrap 4, 5
+
 
 <div>
   <a href="https://github.com/mooizabaatista">
