@@ -3,51 +3,44 @@
 
 #### Linguagens e Tecnologias de Back-end:
 
-- **Linguagem e Framework:**
-  - C#
-  - ASP.NET Core Web API
-  - ASP.NET Core MVC
+Linguagem e Framework:
 
-- **Autenticação e Autorização:**
-  - ASP.NET Core Identity
-  - Token JWT
+C#
+ASP.NET Core Web API
+ASP.NET Core MVC
+ASP.NET Core Identity
+Token JWT
 
-- **Arquitetura e Padrões:**
-  - Domain Driven Design
-  - Padrão Repository
-  - Clean Architecture
-  - C.Q.R.S (Command Query Responsibility Segregation)
+Arquitetura e Padrões:
 
-- **Acesso a Dados:**
-  - Entity Framework
-  - SQL Server
+Domain Driven Design
+Padrão Repository
+Clean Architecture
+C.Q.R.S
 
-- **Gerenciamento de Dependências e Middleware:**
-  - MediatR
+Acesso a Dados:
 
-- **Mapeamento de Objetos:**
-  - AutoMapper
+Entity Framework
+SQL Server
 
-- **Validação:**
-  - Fluent Validation
+Bibliotecas e Ferramentas
 
-- **Controle de Versão e Colaboração:**
-  - GitHub 
-  - Azure DevOps
+MediatR
+AutoMapper
+Fluent Validation
 
-## Tecnologias Front-end:
+Controle de Versão e Colaboração:
 
-- **Frameworks e Bibliotecas JavaScript:**
-  - Angular 2+
-  - jQuery
+GitHub
+Azure DevOps
 
-- **Markup e Estilização:**
-  - HTML
-  - CSS
+Tecnologias Front-end:
 
-- **Framework de Estilos:**
-  - Bootstrap 4, 5
-
+Angular 2+
+jQuery
+HTML
+CSS
+Bootstrap 4, 5
 
 <div>
   <a href="https://github.com/mooizabaatista">
