@@ -1,8 +1,8 @@
         
-## Olá! Eu sou o Moisés Batista   👋😀
+### Olá! Eu sou o Moisés Batista 
+> E essa é a minha stack tecnológica  😁🌱 
 
 ## Back-end
-
 ### Linguagem e Framework:
 - **ASP.NET Core MVC**
  - **ASP NET Core Web API**
