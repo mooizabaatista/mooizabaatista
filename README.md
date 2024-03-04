@@ -1,8 +1,6 @@
         
 ## Olá! Eu sou o Moisés Batista   👋😀
 
-#
-#
 #### Linguagens e Tecnologias de Back-end:
 
 - **Linguagem e Framework:**
