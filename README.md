@@ -1,36 +1,36 @@
         
-### Olá! Eu sou o Moisés Batista 
+## Olá! Eu sou o Moisés Batista 
 > E essa é a minha stack tecnológica  😁🌱 
 
-## Back-end
+### Back-end
 
-### Linguagem e Framework:
+#### Linguagem e Framework:
 - **ASP.NET Core MVC**
  - **ASP NET Core Web API**
  - **ASP NET Core Identity**
 - **Token JWT**
 
-### Arquitetura e Padrões:
+#### Arquitetura e Padrões:
 - **Domain Driven Design**
 - **Padrão Repository**
 - **Clean Architecture**
 - **C.Q.R.S**
 
-### Acesso a Dados:
+#### Acesso a Dados:
 - **Entity Framework**
 - **SQL Server**
 
-### Bibliotecas e Ferramentas:
+#### Bibliotecas e Ferramentas:
 - **MediatR**
 - **AutoMapper**
 - **Fluent Validation**
 
-### Controle de Versão e Colaboração:
+#### Controle de Versão e Colaboração:
 - **GitHub**
 
-## Front-end
+### Front-end
 
-### Tecnologias:
+#### Tecnologias:
 - **Angular 2+**
 - **jQuery**
 - **HTML**
