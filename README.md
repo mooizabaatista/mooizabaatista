@@ -5,6 +5,7 @@
 ### Back-end
 
 #### Linguagem e Framework:
+- **Blazor**
 - **ASP.NET Core MVC**
  - **ASP NET Core Web API**
  - **ASP NET Core Identity**
@@ -31,6 +32,7 @@
 ### Front-end
 
 #### Tecnologias:
+- **Blazor**
 - **Angular 2+**
 - **jQuery**
 - **HTML**
